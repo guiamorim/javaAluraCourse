@@ -2,7 +2,7 @@
 public class TestaWhile {
 	public static void main(String[] args) {
 		
-		int contador = 0; //declara��o e inicializa��o da vari�vel
+		int contador = 0; //declaração e inicialização da variável
 		
 		while(contador <= 10) {
 			System.out.println(contador);
@@ -18,3 +18,12 @@ public class TestaWhile {
 		System.out.println(contador);
 	}
 }
+
+/*Todos os operadores de comparação e lógicos são válidos na expressão condicional do while!
+Operadores de comparação
+< menor, > maior, <= menor ou igual, >= maior ou igual, == igual a  e != diferente de, 
+
+Operadores lógicos:
+&& = and
+|| = ou
+*/
